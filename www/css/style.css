@@ -1,6 +1,40 @@
 :root {
-    --f7-theme-color: #f00;
-    --f7-theme-color-shade: #d60000;
-    --f7-theme-color-tint: #ff2929;
-    --f7-theme-color-rgb: 255, 0, 0;
+    --f7-theme-color: #007aff;
+    --f7-theme-color-shade: #007aff;
+    --f7-theme-color-tint: #007aff;
+    --f7-theme-color-rgb: #007aff;
   }
+
+h1{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 30px;
+}
+.list {
+  height: 200%;
+  width: 100%;
+
+}
+.page-content {
+  font-size: 36px;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+
+h3{
+  text-align: left;
+  font-size: 18px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.alignleft {
+  text-align: left;
+}
+
+.alightimage{
+  text-align: left;
+}
+
+.imagealign{
+  text-align:left;
+}
